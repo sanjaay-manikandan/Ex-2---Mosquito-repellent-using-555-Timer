@@ -7,7 +7,7 @@ To design, simulate, and analyze an electronic mosquito repellent circuit using 
 **Apparatus Required**
 
 S.No	Components/Software	Specification
-
+```
 1	Proteus Design Suite	Version 8.0 or above
 2	IC 555 Timer	NE555
 3	Resistors	1 kΩ, 10 kΩ, 100 kΩ (or as required)
@@ -18,7 +18,7 @@ S.No	Components/Software	Specification
 8	Oscilloscope	Virtual Instrument
 9	Ground Terminal	-
 10	Connecting Wires	Virtual Components
-
+```
 **Circuit Diagram**
 
 (Insert Proteus circuit diagram here.)
@@ -70,9 +70,10 @@ Observe the square-wave output and verify the generated frequency.
 Adjust the potentiometer and note the corresponding change in output frequency.
 
 **Output**
-	
-	
-(Insert Proteus output diagram here.)
+<img width="1708" height="993" alt="image" src="https://github.com/user-attachments/assets/86faf2bd-a562-4727-a6d1-27963374e4f4" />
+
+<img width="1370" height="873" alt="image" src="https://github.com/user-attachments/assets/f4ea7625-e431-42a6-989b-4a907207d42b" />
+
 
 **Result**
 
